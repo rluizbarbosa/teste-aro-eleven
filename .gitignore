@@ -1,0 +1,4 @@
+/views-cache
+.sass-cache
+node_modules
+error_log
