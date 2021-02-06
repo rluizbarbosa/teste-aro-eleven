@@ -1,5 +1,5 @@
 <?php 
-define('__DIR_PRINCIPAL__', "/teste");
+define('__DIR_PRINCIPAL__', "/teste-aro-eleven");
 
 require_once __DIR__ . '/vendor/autoload.php';
 require_once __DIR__ . '/system/functions.php';

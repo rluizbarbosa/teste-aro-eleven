@@ -20,7 +20,7 @@
 <body>
 	<header>
 		<div class="container">
-			<a href="{$__DIR_PRINCIPAL__}" class="logo">Bem vindo a sua <strong>AGENDA</strong></a>
+			<a href='{if="$__DIR_PRINCIPAL__ === ''"}/{else}{$__DIR_PRINCIPAL__}{/if}' class="logo">Bem vindo a sua <strong>AGENDA</strong></a>
 			<a href="create" class="botao" >Adicionar contato</a>
 		</div>
 	</header>

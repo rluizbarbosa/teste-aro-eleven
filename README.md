@@ -22,7 +22,7 @@ Criaçao de uma agenda de contatos
 
 ### OBSERVAÇÃO IMPORTANTE:
 
-> Caso for rodar esse projeto em seu computador pessoal (em um localhost), configure a variaval __DIR_PRINCIPAL__ no arquivo index.php na raiz do projeto. EX: se for rodar o projeto em localhost/teste/ , você deve configurar a variavel para define('__DIR_PRINCIPAL__', "/teste"), caso prefira deixar na raiz do servidor, apenas deixe assim define('__DIR_PRINCIPAL__', "");
+> Caso for rodar esse projeto em seu computador pessoal (em um localhost), configure a variaval __DIR_PRINCIPAL__ no arquivo index.php na raiz do projeto. EX: se for rodar o projeto em localhost/teste-aro-eleven/ , você deve configurar a variavel para define('__DIR_PRINCIPAL__', "/teste-aro-eleven"), caso prefira deixar na raiz do servidor, apenas deixe assim define('__DIR_PRINCIPAL__', "");
 
 
 O arquivo BancodeDados.sql é o script em sql que cria o banco e a tabela.
